@@ -1,4 +1,4 @@
-package in.regres;
+package in.regres.tests;
 
 import org.junit.jupiter.api.Test;
 
